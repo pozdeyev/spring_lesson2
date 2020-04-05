@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import ru.geekbrains.persistence.CategoryRepository;
 import ru.geekbrains.persistence.entity.Category;
-
 @Controller
 @RequestMapping("categories")
 public class CategoryController {

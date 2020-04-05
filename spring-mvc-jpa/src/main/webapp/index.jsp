@@ -8,7 +8,7 @@
 
 </head>
 <body>
-<h1>Homework №2</h1>
+<h1>Homework №7</h1>
 <a href="categories">Start</a>
 
 </body>

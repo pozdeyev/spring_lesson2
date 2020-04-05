@@ -6,7 +6,6 @@
     <title>Category</title>
 </head>
 <body>
-
 <form action="create" method="post">
 
     <p>

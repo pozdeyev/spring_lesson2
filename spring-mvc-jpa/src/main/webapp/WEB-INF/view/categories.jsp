@@ -8,7 +8,6 @@
 <body>
 
 <a href="categories/create">Create new Category</a>
-
 <table border="3">
     <tr>
         <th>Id</th>
